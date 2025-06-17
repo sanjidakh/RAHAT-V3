@@ -1,0 +1,6 @@
+{
+  "startup": "Bot is here",
+  "pingResponse": "pong",
+  "messageLog": "[{context}] {sender} sent: {body}",
+  "cooldownError": "Command on cooldown. Try again in {seconds} seconds."
+}

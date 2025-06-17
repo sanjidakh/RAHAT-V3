@@ -1,0 +1,6 @@
+{
+  "startup": "বট এখানে আছে",
+  "pingResponse": "পং",
+  "messageLog": "[{context}] {sender} পাঠিয়েছে: {body}",
+  "cooldownError": "কমান্ড কুলডাউনে আছে। {seconds} সেকেন্ড পরে আবার চেষ্টা করুন।"
+}
