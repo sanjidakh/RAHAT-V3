@@ -1,0 +1,44 @@
+{
+  "name": "nexasim-v2",
+  "version": "2.0.0",
+  "description": "A customizable and scalable Facebook Messenger bot designed for group chat management, fun, and automation.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "facebook",
+    "messenger",
+    "bot",
+    "chatbot",
+    "fca",
+    "priyanshu-fca",
+    "messenger-bot",
+    "nexasim",
+    "nodejs"
+  ],
+  "author": "Hridoy Khan",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/1dev-hridoy/NexaSim-v2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/1dev-hridoy/NexaSim-v2/issues"
+  },
+  "homepage": "https://github.com/1dev-hridoy/NexaSim-v2#readme",
+  "dependencies": {
+    "axios": "^1.8.4",
+    "canvas": "^3.1.0",
+    "chalk": "^4.1.2",
+    "express": "^5.1.0",
+    "express-session": "^1.18.1",
+    "fs-extra": "^11.3.0",
+    "gradient-string": "^2.0.2",
+    "he": "^1.2.0",
+    "mongodb": "^6.15.0",
+    "priyanshu-fca": "^3.0.0",
+    "sharp": "^0.34.2"
+  }
+}
