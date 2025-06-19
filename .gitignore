@@ -1,0 +1,7 @@
+node_modules/
+appstate.
+package-lock.json
+bin/
+includes/database/index.js
+backups/ 
+modules/commands/xvid.js
